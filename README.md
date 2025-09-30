@@ -29,7 +29,7 @@ Actuellement à la recherche d’un **stage de fin d’études** pour mettre en 
 
 ## 📫 Contact
 
-- LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com/)  
+- LinkedIn : [Profil LinkedIn](https://www.linkedin.com/)  
 - Email :ugur.balciccc@mail.com
 
 ---
