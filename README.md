@@ -1,18 +1,18 @@
 <!-- GIF d'intro / effet “landing” -->
-![Bienvenue](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Histoire de Windows](https://i0.wp.com/marclabs.com/wp-content/uploads/2015/11/EOW-full-teaser-no-intro.gif?resize=904%2C589&ssl=1)
 
 # Salut, je suis Ugur 👋
 
 Je suis étudiant en **Master 2 Interactions de l'Informatique et des Mathématiques pour l'IA (IMA)** à l'Université de Toulouse.  
 Passionné par l'**intelligence artificielle**, le **machine learning**, les **mathématiques appliquées** et le **développement informatique**.
 
-🎯 Actuellement à la recherche d’un **stage de fin d’études** pour mettre en pratique mes compétences en R&D, data science et IA.
+🎯 Actuellement à la recherche d’un **stage de fin d’études** pour mettre en pratique mes compétences en Data science et IA.
 
 ---
 
 ## 🌐 Découvrez mon portfolio
 
-[![Mon portfolio Balci](https://img.shields.io/badge/Visitez-mon_portfolio-blue?style=for-the-badge&logo=github)](https://ugurba.github.io/Balci/)
+[![Mon portfolio Balci](https://img.shields.io/badge/Portfolio-Visiter-blue?style=for-the-badge&logo=github)](https://ugurba.github.io/Balci/)
 
 ---
 
@@ -29,9 +29,8 @@ Passionné par l'**intelligence artificielle**, le **machine learning**, les **m
 ## 📫 Contact
 
 - LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com/)  
-- Email : `ton.email@example.com`  
-- ORCID : `https://orcid.org/`  
+- Email :(ugur.balciccc@mail.com) 
 
 ---
 
-Merci de visiter mon profil ! 🚀
+Merci de visiter mon profil ! 
