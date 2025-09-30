@@ -1,12 +1,13 @@
-<!-- GIF d'intro / effet “landing” -->
-![Histoire de Windows](https://i0.wp.com/marclabs.com/wp-content/uploads/2015/11/EOW-full-teaser-no-intro.gif?resize=904%2C589&ssl=1)
-
 # Salut, je suis Ugur 👋
 
 Je suis étudiant en **Master 2 Interactions de l'Informatique et des Mathématiques pour l'IA (IMA)** à l'Université de Toulouse.  
 Passionné par l'**intelligence artificielle**, le **machine learning**, les **mathématiques appliquées** et le **développement informatique**.
 
-🎯 Actuellement à la recherche d’un **stage de fin d’études** pour mettre en pratique mes compétences en Data science et IA.
+Actuellement à la recherche d’un **stage de fin d’études** pour mettre en pratique mes compétences en Data science et IA.
+
+<!-- GIF d'intro / effet “landing” -->
+![Histoire de Windows](https://i0.wp.com/marclabs.com/wp-content/uploads/2015/11/EOW-full-teaser-no-intro.gif?resize=904%2C589&ssl=1)
+
 
 ---
 
@@ -29,7 +30,7 @@ Passionné par l'**intelligence artificielle**, le **machine learning**, les **m
 ## 📫 Contact
 
 - LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com/)  
-- Email :(ugur.balciccc@mail.com) 
+- Email :ugur.balciccc@mail.com
 
 ---
 
